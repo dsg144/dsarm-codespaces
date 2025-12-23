@@ -1,0 +1,42 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# ----------------------------
+# Jupyter
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# VS Code / Codespaces
+# ----------------------------
+.vscode/
+.devcontainer/.cache/
+.python-version
+
+# ----------------------------
+# OS junk
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# DSAR: large runtime downloads (do not commit)
+# Exercise 8 OpenNeuro downloads (keep mask + QC image tracked)
+# ----------------------------
+exercises/E08_neuroimaging_nacc/data/sub-*/
+exercises/E08_neuroimaging_nacc/data/**/func/*_bold.nii.gz
+exercises/E08_neuroimaging_nacc/data/**/func/*_events.tsv
