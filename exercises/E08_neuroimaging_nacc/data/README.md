@@ -19,7 +19,6 @@ This directory contains the essential data files for the NAcc reward processing 
 
 ## Included Files (committed to repository):
 - `nacc_bilateral_mask.nii` - NAcc ROI mask (required for analysis)
-- `qc_nacc_roi_alignment.png` - Quality control visualization
 
 ## Auto-Downloaded Files:
 When you run the notebook, it will automatically download subject data from OpenNeuro:
