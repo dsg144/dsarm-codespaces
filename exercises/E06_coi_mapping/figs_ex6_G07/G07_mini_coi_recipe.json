@@ -1,0 +1,19 @@
+{
+  "COI_edu_mini": [
+    "ED_ECENROL_Z",
+    "ED_HSGRAD_Z",
+    "ED_MATH_Z"
+  ],
+  "COI_SE_mini": [
+    "HE_GREEN_Z",
+    "SE_EMPRAT_Z"
+  ],
+  "COI_mini": [
+    "ED_ECENROL_Z",
+    "ED_HSGRAD_Z",
+    "ED_MATH_Z",
+    "HE_GREEN_Z",
+    "SE_EMPRAT_Z"
+  ],
+  "note": "All components are oriented so higher = better before averaging."
+}
