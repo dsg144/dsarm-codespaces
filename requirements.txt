@@ -5,7 +5,7 @@ scipy
 statsmodels
 scikit-learn
 missingno
-
+folium
 geopandas
 shapely
 pyproj
